@@ -18,12 +18,16 @@
 
 <!--
 https://simpleicons.org
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane-Park&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-Park&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning full-stack development
 - 👯 I’m looking to collaborate on playddit
