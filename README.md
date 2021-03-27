@@ -8,9 +8,9 @@
 <!--OS-->
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white"/></a>
 <!--IDE-->
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>
 <!--ETC-->
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/></a>
 
 <!--
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
