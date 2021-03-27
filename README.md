@@ -16,6 +16,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCcode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <!--ETC-->
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
 
