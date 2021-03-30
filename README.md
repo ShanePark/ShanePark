@@ -43,6 +43,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
   </details>
 <details markdown="1">
   <summary>2020 History</summary>
-    <a href="https://github.com/Shane-Park/DDIT_Project1">🍱 WhatShouldIEatToday project (2020.12.31)</a><br/>
+    <a href="https://github.com/Shane-Park/DDIT_Project1">🍱 WhatShouldWeEatToday project (2020.12.31)</a><br/>
     <a href="https://www.ddit.or.kr/index">📚 Started leaning Full stack development (2020.11.16)</a><br/>
 </details>
