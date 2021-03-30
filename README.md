@@ -35,3 +35,14 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 - 🤔 I’m looking for help with playddit refactoring and deployment
 - 💬 Ask me about Apple and Mac development environment 
 - 📫 How to reach me: psh40963@naver.com
+
+<details open>
+  <summary>2021 History</summary>
+    <a href="http://playddit.tk">🕹️ playddit beta released (2021.03.29)</a><br/>
+    <a href="https://github.com/Shane-Park/playddit">🎙️ project playddit presentation (2021.03.08)</a>
+  </details>
+<details markdown="1">
+  <summary>2020 History</summary>
+    <a href="https://github.com/Shane-Park/DDIT_Project1">🍱 WhatShouldIEatToday project (2020.12.31)</a><br/>
+    <a href="https://www.ddit.or.kr/index">📚 Started leaning Full stack development (2020.11.16)</a><br/>
+</details>
