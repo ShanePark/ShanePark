@@ -38,7 +38,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 <details open>
   <summary>2021 History</summary>
-    <a href="http://playddit.tk">🕹️ playddit beta released (2021.03.29)</a><br/>
+    <a href="http://playddit.net">🕹️ playddit beta released (2021.03.29)</a><br/>
     <a href="https://github.com/Shane-Park/playddit">🎙️ project playddit presentation (2021.03.08)</a>
   </details>
 <details markdown="1">
