@@ -36,13 +36,14 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 
 - 🌱 I’m currently learning full-stack development
-- 👯 I’m looking to collaborate on playddit
-- 🤔 I’m looking for help with playddit refactoring and deployment
+- 👯 I’m working on Gaia project at the moment
+- 🤔 I’m looking for help with playddit refactoring
 - 💬 Ask me about Apple and Mac development environment 
 - 📫 How to reach me: psh40963@naver.com
 
 <details open>
   <summary>2021 History</summary>
+    <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~)</a><br/>
     <a href="http://playddit.net">🕹️ playddit beta released (2021.03.29)</a><br/>
     <a href="https://github.com/Shane-Park/playddit">🎙️ project playddit presentation (2021.03.08)</a>
   </details>
