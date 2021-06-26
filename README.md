@@ -10,7 +10,8 @@
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/kibana-47A248?style=flat-square&logo=kibana&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-square&logo=Apache-tomcat&logoColor=white"/></a>
@@ -51,7 +52,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 <details open>
   <summary>2021 History</summary>
-    <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~)</a><br/>
+    <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~2021.06.28)</a><br/>
     <a href="http://playddit.net">🕹️ playddit beta released (2021.03.29)</a><br/>
     <a href="https://github.com/Shane-Park/playddit">🎙️ playddit presentation (2021.03.08)</a>
   </details>
