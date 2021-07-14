@@ -44,7 +44,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-Park&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🌱 I’m currently learning full-stack development
+- 🌱 I’m currently looking for a job. <a href="https://www.notion.so/Shane-A-smarter-universe-7b2a6733fa9842998c94ea1a0c6c1602">click here</a> to checkout my resume
 - 👯 I’m working on Gaia project at the moment
 - 🤔 I’m looking for help with playddit refactoring
 - 💬 Ask me about Apple and Mac development environment 
