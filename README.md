@@ -13,7 +13,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/kibana-47A248?style=flat-square&logo=kibana&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-square&logo=Apache-tomcat&logoColor=white"/></a>
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/></a>
@@ -40,24 +40,24 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane-Park&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-Park&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 - 🌱 I’m currently looking for a job. <a href="https://www.notion.so/Shane-A-smarter-universe-7b2a6733fa9842998c94ea1a0c6c1602">click here</a> to checkout my resume
 - 👯 I’m working on Gaia project at the moment
-- 🤔 I’m looking for help with playddit refactoring
+- 🤔 I’m looking for help with projects refactoring
 - 💬 Ask me about Apple and Mac development environment 
 - 📫 How to reach me: psh40963@naver.com
 
 <details open>
   <summary>2021 History</summary>
-    <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~2021.06.28)</a><br/>
-    <a href="http://playddit.net">🕹️ playddit beta released (2021.03.29)</a><br/>
-    <a href="https://github.com/Shane-Park/playddit">🎙️ playddit presentation (2021.03.08)</a>
+    <a href="https://github.com/ddit301/gaia">🌱 Project gaia (2021.05.03~2021.06.28)</a><br/>
+    <a href="https://github.com/Shane-Park/playddit">🕹 Project playddit (2021.02.05~2021.03.08)</a>
   </details>
 <details markdown="1">
   <summary>2020 History</summary>
-    <a href="https://github.com/Shane-Park/DDIT_Project1">🍱 WhatShouldWeEatToday presentation (2020.12.31)</a><br/>
-    <a href="https://github.com/Shane-Park/java_lecture">📚 Started leaning Full stack development (2020.11.16)</a><br/>
+    <a href="https://github.com/Shane-Park/DDIT_Project1">🍱 Project WhatShouldWeEatToday (2020.12.31)</a><br/>
+    <a href="https://github.com/Shane-Park/java_lecture">📚 Started leaning Full stack development (2020.11.16 ~ 2021.06.29)</a><br/>
 </details>
