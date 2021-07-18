@@ -18,6 +18,7 @@
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
