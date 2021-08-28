@@ -51,7 +51,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-Park&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-- 📚 Currently studying <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> and <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>
+- 📚 Currently studying <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
 - 💬 Ask me about Apple Silicon MacBook development environment 
 - 📫 How to reach me: psh40963@naver.com
 
