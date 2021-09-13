@@ -47,10 +47,10 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane-Park&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-Park&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
+- I Believe in the power of consistency
 - 📚 Currently studying <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
 - 💬 Ask me about Apple Silicon MacBook development environment 
 - 📫 How to reach me: psh40963@naver.com
@@ -61,8 +61,10 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     🌱 <a href="https://github.com/ddit301/gaia">Project gaia</a> (03.MAY.2021~28.JUN.2021)<br/>
     🕹 <a href="https://github.com/Shane-Park/playddit">Project playddit</a> (05.FEB.2021~08.MAR.2021)
   </details>
-<details markdown="1">
+<details open>
   <summary>2020 History</summary>
     🍱 <a href="https://github.com/Shane-Park/DDIT_Project1">Project WhatShouldWeEatToday</a> (31.DEC.2021)<br/>
     📖 Started leaning <a href="https://github.com/Shane-Park/java_lecture">Full stack development</a> (16.NOV.2020 ~ 29.JUN.2021)<br/>
 </details>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane-Park&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
