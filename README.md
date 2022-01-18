@@ -19,7 +19,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 
 - I Believe in the power of consistency
-- 📚 Currently interested in <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a> 
+- 📚 Currently interested in <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
 - 💬 Ask me about Apple Silicon MacBook development environment 
 - 📫 How to reach me: psh40963@naver.com
 
