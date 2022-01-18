@@ -25,6 +25,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 <details open>
   <summary>2021 History</summary>
+    🎤 In-house presentation <a href="https://shanepark.tistory.com/309">Log4Shell</a> (30.DEC.2021)<br/>
     💻 Started working for <a href="https://argonet.co.kr">Argonet</a> (04.AUG.2021~)<br/>
     🌱 <a href="https://github.com/ddit301/gaia">Project gaia</a> (03.MAY.2021~28.JUN.2021)<br/>
     🕹 <a href="https://github.com/Shane-Park/playddit">Project playddit</a> (05.FEB.2021~08.MAR.2021)
