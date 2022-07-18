@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShane-Park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
-
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
@@ -35,5 +33,3 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     🍱 <a href="https://github.com/Shane-Park/DDIT_Project1">Project WhatShouldWeEatToday</a> (31.DEC.2021)<br/>
     📖 Started leaning <a href="https://github.com/Shane-Park/java_lecture">Full stack development</a> (16.NOV.2020 ~ 29.JUN.2021)<br/>
 </details>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane-Park&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
